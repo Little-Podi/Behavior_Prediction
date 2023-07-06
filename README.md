@@ -8,7 +8,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### Helpful Learning Resource:thumbsup::thumbsup::thumbsup:
 
-- **MAIR2** ICCV 2021 workshop on Multi-Agent Interaction and Relational Reasoning [[video](https://www.youtube.com/playlist?list=PL6xm03jUOj8IA7OdWnjHXHCSfPWSZEIUS)]
+- **MAIR2** (ICCV 2021 workshop on Multi-Agent Interaction and Relational Reasoning) [[video](https://www.youtube.com/playlist?list=PL6xm03jUOj8IA7OdWnjHXHCSfPWSZEIUS)]
 
 
 
