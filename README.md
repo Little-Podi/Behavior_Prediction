@@ -1,6 +1,6 @@
 # Behavior Prediction
 
-This repository is a paper digest of multi-agent behavior (motion / trajectory) prediction (forecasting / generation), especially in driving scenes. Papers are listed in alphabetical order of the first character. All links to the papers and codes are freely accessible.
+This repository is a paper digest of multi-agent behavior (motion / trajectory) prediction (forecasting / generation), especially in driving scenes. Papers are listed in alphabetical order of the first character. All links to the materials are freely accessible.
 
 
 
