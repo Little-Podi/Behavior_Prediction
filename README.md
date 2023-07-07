@@ -103,7 +103,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### CVPR 2020:tada::tada::tada:
 
-- **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/DQSSSSS/VectorNet)] [[demo](https://youtu.be/fM_exYBSWlA)]
+- **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/xk-huang/yet-another-vectornet)] [[demo](https://youtu.be/fM_exYBSWlA)]
   - Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid
 
 ### NeurIPS 2020:tada::tada::tada:
