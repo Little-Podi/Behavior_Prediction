@@ -113,7 +113,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 - **RSBG** (Recursive Social Behavior Graph for Trajectory Prediction) [[paper](https://arxiv.org/abs/2004.10402)] [~~code~~] [[demo](https://youtu.be/JX3POsrKUAM)]
   - Jianhua Sun, Qinhong Jiang, Cewu Lu
-- **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/xk-huang/yet-another-vectornet)] [[demo](https://youtu.be/fM_exYBSWlA)]
+- **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)] [[demo](https://youtu.be/fM_exYBSWlA)]
   - Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid
 
 ### NeurIPS 2020:tada::tada::tada:
@@ -125,13 +125,19 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 - **LaneGCN** (Learning Lane Graph Representations for Motion Forecasting) [[paper](https://arxiv.org/abs/2007.13732)] [[code](https://github.com/uber-research/LaneGCN)] [[demo](https://youtu.be/nxRSZ7t5OW4)]
   - Ming Liang, Bin Yang, Rui Hu, Yun Chen, Renjie Liao, Song Feng, Raquel Urtasun
+- **STAR** (Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction) [[paper](https://arxiv.org/abs/2005.08514)] [[code](https://github.com/Majiker/STAR)] [[demo](https://youtu.be/5tS5Xe-DERo)]
+  - Cunjun Yu, Xiao Ma, Jiawei Ren, Haiyu Zhao, Shuai Yi
 - **Trajectron++** (Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data) [[paper](https://arxiv.org/abs/2001.03093)] [[code](https://github.com/StanfordASL/Trajectron-plus-plus)] [~~demo~~]
   - Tim Salzmann, Boris Ivanovic, Punarjay Chakravarty, Marco Pavone
 
 ### CoRL 2020:tada::tada::tada:
 
+- **DROGON** (DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning) [[paper](https://arxiv.org/abs/1908.00024)] [~~code~~] [[demo](https://youtu.be/PQlWx8AmoAs)]
+  - Chiho Choi, Srikanth Malla, Abhishek Patil, Joon Hee Choi
 - **MATS** (MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control) [[paper](https://arxiv.org/abs/2009.07517)] [[code](https://github.com/StanfordASL/MATS)] [[demo](https://youtu.be/ZFJKyZ8-MgE)]
   - Boris Ivanovic, Amine Elhafsi, Guy Rosman, Adrien Gaidon, Marco Pavone
+- **TNT** (TNT: Target-Driven Trajectory Prediction) [[paper](https://arxiv.org/abs/2008.08294)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)] [[demo](https://youtu.be/iaaCbKncY-8)]
+  - Hang Zhao, Jiyang Gao, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov
 
 ### ICCV 2019:tada::tada::tada:
 
