@@ -13,8 +13,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **(Survey)** Social Interactions for Autonomous Driving: A Review and Perspectives [[paper](https://arxiv.org/abs/2208.07541)]
 - **(Lecture)** Pedestrian Trajectory Prediction [[video](https://youtu.be/dSQMJBg47es)]
 - **(Presentation)** Trajectory Forecasting in the Modern Robotic Autonomy Stack [[video](https://youtu.be/EVxS7tC9LMI)]
-- **(Workshop)** MAIR2: ICCV 2021 Workshop on Multi-Agent Interaction and Relational Reasoning [[channel](https://www.youtube.com/@mair2workshop707)]
-- **(Challenge)** CVPR 2023 Workshop on Autonomous Driving [[video](https://youtu.be/cOFjqeBNN6g)], CVPR 2022 Workshop on Autonomous Driving [[video](https://youtu.be/Z1q9ijuLLvU)], CVPR 2021 Workshop on Autonomous Driving [[video](https://youtu.be/DM8jWfi69zM)]
+- **(Workshop)** CVPR 2023 Workshop on Autonomous Driving [[video](https://youtu.be/cOFjqeBNN6g)], CVPR 2022 Workshop on Autonomous Driving [[video](https://youtu.be/Z1q9ijuLLvU)], CVPR 2021 Workshop on Autonomous Driving [[video](https://youtu.be/DM8jWfi69zM)]
 
 
 
@@ -111,9 +110,9 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### CVPR 2020:tada::tada::tada:
 
-- **RSBG** (Recursive Social Behavior Graph for Trajectory Prediction) [[paper](https://arxiv.org/abs/2004.10402)] [~~code~~] [[demo](https://youtu.be/JX3POsrKUAM)]
+- **RSBG** (Recursive Social Behavior Graph for Trajectory Prediction) [[paper](https://arxiv.org/abs/2004.10402)] [~~code~~] [~~demo~~]
   - Jianhua Sun, Qinhong Jiang, Cewu Lu
-- **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)] [[demo](https://youtu.be/fM_exYBSWlA)]
+- **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)] [[demo](https://youtu.be/yJFtf-fz3WA)]
   - Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid
 
 ### NeurIPS 2020:tada::tada::tada:
