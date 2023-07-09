@@ -13,6 +13,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **(Survey)** Social Interactions for Autonomous Driving: A Review and Perspectives [[paper](https://arxiv.org/abs/2208.07541)]
 - **(Lecture)** Pedestrian Trajectory Prediction [[video](https://youtu.be/dSQMJBg47es)]
 - **(Presentation)** Trajectory Forecasting in the Modern Robotic Autonomy Stack [[video](https://youtu.be/EVxS7tC9LMI)]
+- **(Keynote)** The 7 Foundational Principles behind Autonomous Mobility [[video](https://youtu.be/Xgnc-CJi8zE)], Progress towards Scalable Deployment of Autonomous Driving [[video](https://youtu.be/fXsbI2VkHgc)]
 - **(Workshop)** CVPR 2023 Workshop on Autonomous Driving [[video](https://youtu.be/cOFjqeBNN6g)], CVPR 2022 Workshop on Autonomous Driving [[video](https://youtu.be/Z1q9ijuLLvU)], CVPR 2021 Workshop on Autonomous Driving [[video](https://youtu.be/DM8jWfi69zM)]
 
 
