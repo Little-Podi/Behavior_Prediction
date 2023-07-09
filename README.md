@@ -10,8 +10,9 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### Helpful Learning Resource:thumbsup::thumbsup::thumbsup:
 
+- **(Survey)** Social Interactions for Autonomous Driving: A Review and Perspectives [[paper](https://arxiv.org/abs/2208.07541)]
+- **(Lecture)** Pedestrian Trajectory Prediction [[video](https://youtu.be/dSQMJBg47es)]
 - **(Presentation)** Trajectory Forecasting in the Modern Robotic Autonomy Stack [[video](https://youtu.be/EVxS7tC9LMI)]
-- **(Explanation)** Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories [[video](https://youtu.be/YJKo_F3uUwU)], VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation [[video](https://youtu.be/yJFtf-fz3WA)]
 - **(Workshop)** MAIR2: ICCV 2021 Workshop on Multi-Agent Interaction and Relational Reasoning [[channel](https://www.youtube.com/@mair2workshop707)]
 - **(Challenge)** CVPR 2023 Workshop on Autonomous Driving [[video](https://youtu.be/cOFjqeBNN6g)], CVPR 2022 Workshop on Autonomous Driving [[video](https://youtu.be/Z1q9ijuLLvU)], CVPR 2021 Workshop on Autonomous Driving [[video](https://youtu.be/DM8jWfi69zM)]
 
@@ -98,6 +99,11 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **DenseTNT** (DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets) [[paper](https://arxiv.org/abs/2108.09640)] [[code](https://github.com/Tsinghua-MARS-Lab/DenseTNT)] [~~demo~~]
   - Junru Gu, Chen Sun, Hang Zhao
 
+### CoRL 2021:tada::tada::tada:
+
+- **CEAV** (Multi-Agent Trajectory Prediction by Combining Egocentric and Allocentric Views) [[paper&review](https://openreview.net/forum?id=lAtePxetBNb)] [~~code~~] [[demo](https://youtu.be/l96YYO9bC8M)]
+  - Xiaosong Jia, Liting Sun, Hang Zhao, Masayoshi Tomizuka, Wei Zhan
+
 ### WACV 2021
 
 - **GraphTCN** (GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction) [[paper](https://arxiv.org/abs/2003.07167)] [~~code~~] [[demo](https://youtu.be/Kq0K5DeBL9g)]
@@ -105,6 +111,8 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### CVPR 2020:tada::tada::tada:
 
+- **RSBG** (Recursive Social Behavior Graph for Trajectory Prediction) [[paper](https://arxiv.org/abs/2004.10402)] [~~code~~] [[demo](https://youtu.be/JX3POsrKUAM)]
+  - Jianhua Sun, Qinhong Jiang, Cewu Lu
 - **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/xk-huang/yet-another-vectornet)] [[demo](https://youtu.be/fM_exYBSWlA)]
   - Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid
 
@@ -119,6 +127,11 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
   - Ming Liang, Bin Yang, Rui Hu, Yun Chen, Renjie Liao, Song Feng, Raquel Urtasun
 - **Trajectron++** (Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data) [[paper](https://arxiv.org/abs/2001.03093)] [[code](https://github.com/StanfordASL/Trajectron-plus-plus)] [~~demo~~]
   - Tim Salzmann, Boris Ivanovic, Punarjay Chakravarty, Marco Pavone
+
+### CoRL 2020:tada::tada::tada:
+
+- **MATS** (MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control) [[paper](https://arxiv.org/abs/2009.07517)] [[code](https://github.com/StanfordASL/MATS)] [[demo](https://youtu.be/ZFJKyZ8-MgE)]
+  - Boris Ivanovic, Amine Elhafsi, Guy Rosman, Adrien Gaidon, Marco Pavone
 
 ### ICCV 2019:tada::tada::tada:
 
