@@ -22,7 +22,9 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### ICCV 2021:tada::tada::tada:
 
-- **WOMD** (Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset) [[paper](https://arxiv.org/abs/2104.10133)] [[code](https://github.com/waymo-research/waymo-open-dataset)] [[data](https://waymo.com/open/about)] [[challenge](https://waymo.com/open/challenges)]
+- **WOSAC** (The Waymo Open Sim Agents Challenge) [[paper](https://arxiv.org/abs/2305.12032)] [[code](https://github.com/waymo-research/waymo-open-dataset)] [[challenge](https://waymo.com/open/challenges/2023/sim-agents)]
+  - Nico Montali, John Lambert, Paul Mougin, Alex Kuefler, Nick Rhinehart, Michelle Li, Cole Gulino, Tristan Emrich, Zoey Yang, Shimon Whiteson, Brandyn White, Dragomir Anguelov
+- **WOMD** (Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset) [[paper](https://arxiv.org/abs/2104.10133)] [[code](https://github.com/waymo-research/waymo-open-dataset)] [[challenge](https://waymo.com/open/challenges/2023/motion-prediction)]
   - Scott Ettinger, Shuyang Cheng, Benjamin Caine, Chenxi Liu, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov
 
 
@@ -33,12 +35,16 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 - **CU-aware** (Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting) [[paper](https://arxiv.org/abs/2207.05195)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)] [~~demo~~]
   - Bohan Tang, Yiqi Zhong, Chenxin Xu, Wei-Tao Wu, Ulrich Neumann, Yanfeng Wang, Ya Zhang, Siheng Chen
+- **DCMS** (DCMS: Motion Forecasting with Dual Consistency and Multi-Pseudo-Target Supervision) [[paper](https://arxiv.org/abs/2204.05859)] [~~code~~] [~~demo~~]
+  - Maosheng Ye, Jiamiao Xu, Xunnong Xu, Tengfei Wang, Tongyi Cao, Qifeng Chen
 - **DyGroupNet** (Dynamic-Group-Aware Networks for Multi-Agent Trajectory Prediction with Relational Reasoning) [[paper](https://arxiv.org/abs/2206.13114)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)] [~~demo~~]
   - Chenxin Xu, Yuxi Wei, Bohan Tang, Sheng Yin, Ya Zhang, Siheng Chen
 - **HDGT** (HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding) [[paper](https://arxiv.org/abs/2205.09753)] [[code](https://github.com/OpenPerceptionX/HDGT)] [~~demo~~]
   - Xiaosong Jia, Penghao Wu, Li Chen, Hongyang Li, Yu Liu, Junchi Yan
 - **MTR++** (MTR++: Multi-Agent Motion Prediction with Symmetric Scene Modeling and Guided Intention Querying) [[paper](https://arxiv.org/abs/2306.17770)] [[code](https://github.com/sshaoshuai/MTR)] [~~demo~~]
   - Shaoshuai Shi, Li Jiang, Dengxin Dai, Bernt Schiele
+- **QCNeXt** (QCNeXt: A Next-Generation Framework For Joint Multi-Agent Trajectory Prediction) [[paper](https://arxiv.org/abs/2306.10508)] [[code](https://github.com/ZikangZhou/QCNet)] [~~demo~~]
+  - Zikang Zhou, Zihao Wen, Jianping Wang, Yung-Hui Li, Yu-Kai Huang
 
 ### CVPR 2023:tada::tada::tada:
 
@@ -48,6 +54,8 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
   - Luke Rowe, Martin Ethier, Eli-Henry Dykhne, Krzysztof Czarnecki
 - **MotionDiffuser** (MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion) [[paper](https://arxiv.org/abs/2306.03083)] [~~code~~] [[demo](https://youtu.be/IfGTZwm1abg)]
   - Chiyu Max Jiang, Andre Cornman, Cheolho Park, Ben Sapp, Yin Zhou, Dragomir Anguelov
+- **QCNet** (Query-Centric Trajectory Prediction) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.html)] [[code](https://github.com/ZikangZhou/QCNet)] [[demo](https://youtu.be/i46Sj0PUwyI)]
+  - Zikang Zhou, Jianping Wang, Yung-Hui Li, Yu-Kai Huang
 
 ### CoRL 2023:tada::tada::tada:
 
@@ -74,6 +82,8 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 - **Scene Transformer** (Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories) [[paper&review](https://openreview.net/forum?id=Wm3EA5OlHsG)] [[code](https://github.com/Chen-Albert-FENG/SceneTransformer)] [~~demo~~]
   - Jiquan Ngiam, Benjamin Caine, Vijay Vasudevan, Zhengdong Zhang, Hao-Tien Lewis Chiang, Jeffrey Ling, Rebecca Roelofs, Alex Bewley, Chenxi Liu, Ashish Venugopal, David Weiss, Ben Sapp, Zhifeng Chen, Jonathon Shlens
+- **THOMAS** (THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling) [[paper&review](https://openreview.net/forum?id=QDdJhACYrlX)] [~~code~~] [~~demo~~]
+  - Thomas Gilles, Stefano Sabatini, Dzmitry Tsishkou, Bogdan Stanciulescu, Fabien Moutarde
 
 ### ICRA 2022
 
@@ -84,6 +94,8 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### CVPR 2021:tada::tada::tada:
 
+- **TPCN** (TPCN: Temporal Point Cloud Networks for Motion Forecasting) [[paper](https://arxiv.org/abs/2103.03067)] [~~code~~] [~~demo~~]
+  - Maosheng Ye, Tongyi Cao, Qifeng Chen
 - **TrafficSim** (TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors) [[paper](https://arxiv.org/abs/2101.06557)] [~~code~~] [[demo](https://youtu.be/n6C788TmBDY)]
   - Simon Suo, Sebastian Regalado, Sergio Casas, Raquel Urtasun
 
