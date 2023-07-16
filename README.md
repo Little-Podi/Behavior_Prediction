@@ -135,6 +135,8 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ### ECCV 2020:tada::tada::tada:
 
+- **DSDNet** (DSDNet: Deep Structured Self-Driving Network) [[paper](https://arxiv.org/abs/2008.06041)] [~~code~~] [[demo](https://youtu.be/hop6FBJnM-c)]
+  - Wenyuan Zeng, Shenlong Wang, Renjie Liao, Yun Chen, Bin Yang, Raquel Urtasun
 - **LaneGCN** (Learning Lane Graph Representations for Motion Forecasting) [[paper](https://arxiv.org/abs/2007.13732)] [[code](https://github.com/uber-research/LaneGCN)] [[demo](https://youtu.be/nxRSZ7t5OW4)]
   - Ming Liang, Bin Yang, Rui Hu, Yun Chen, Renjie Liao, Song Feng, Raquel Urtasun
 - **STAR** (Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction) [[paper](https://arxiv.org/abs/2005.08514)] [[code](https://github.com/Majiker/STAR)] [[demo](https://youtu.be/5tS5Xe-DERo)]
