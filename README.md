@@ -31,7 +31,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ## :bookmark:Approaches
 
-### Preprints
+### Selected Preprint
 
 - **CU-aware** (Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting) [[paper](https://arxiv.org/abs/2207.05195)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)] [~~demo~~]
   - Bohan Tang, Yiqi Zhong, Chenxin Xu, Wei-Tao Wu, Ulrich Neumann, Yanfeng Wang, Ya Zhang, Siheng Chen
