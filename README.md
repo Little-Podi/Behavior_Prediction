@@ -20,7 +20,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 
 ## :bookmark:Benchmarks
 
-### ICCV 2021:tada::tada::tada:
+### ICCV 2021
 
 - **WOSAC** (The Waymo Open Sim Agents Challenge) [[paper](https://arxiv.org/abs/2305.12032)] [[code](https://github.com/waymo-research/waymo-open-dataset)] [[challenge](https://waymo.com/open/challenges/2023/sim-agents)]
   - Nico Montali, John Lambert, Paul Mougin, Alex Kuefler, Nick Rhinehart, Michelle Li, Cole Gulino, Tristan Emrich, Zoey Yang, Shimon Whiteson, Brandyn White, Dragomir Anguelov
@@ -46,7 +46,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **QCNeXt** (QCNeXt: A Next-Generation Framework For Joint Multi-Agent Trajectory Prediction) [[paper](https://arxiv.org/abs/2306.10508)] [[code](https://github.com/ZikangZhou/QCNet)] [~~demo~~]
   - Zikang Zhou, Zihao Wen, Jianping Wang, Yung-Hui Li, Yu-Kai Huang
 
-### CVPR 2023:tada::tada::tada:
+### CVPR 2023
 
 - **EqMotion** (EqMotion: Equivariant Multi-agent Motion Prediction with Invariant Interaction Reasoning) [[paper](https://arxiv.org/abs/2303.10876)] [[code](https://github.com/MediaBrain-SJTU/EqMotion)] [[demo](https://youtu.be/ROactuGU1YA)]
   - Chenxin Xu, Robby T. Tan, Yuhong Tan, Siheng Chen, Yu Guang Wang, Xinchao Wang, Yanfeng Wang
@@ -57,12 +57,12 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **QCNet** (Query-Centric Trajectory Prediction) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.html)] [[code](https://github.com/ZikangZhou/QCNet)] [[demo](https://youtu.be/i46Sj0PUwyI)]
   - Zikang Zhou, Jianping Wang, Yung-Hui Li, Yu-Kai Huang
 
-### CoRL 2023:tada::tada::tada:
+### CoRL 2023
 
 - **JFP** (JFP: Joint Future Prediction with Interactive Multi-Agent Modeling for Autonomous Driving) [[paper&review](https://openreview.net/forum?id=Y42uoIekm5b)] [~~code~~] [~~demo~~]
   - Wenjie Luo, Cheolho Park, Andre Cornman, Benjamin Sapp, Dragomir Anguelov
 
-### CVPR 2022:tada::tada::tada:
+### CVPR 2022
 
 - **GroupNet** (GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning) [[paper](https://arxiv.org/abs/2204.08770)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)] [[demo](https://youtu.be/02LnbEErlDc)]
   - Chenxin Xu, Maosen Li, Zhenyang Ni, Ya Zhang, Siheng Chen
@@ -71,14 +71,14 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **M2I** (M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction) [[paper](https://arxiv.org/abs/2202.11884)] [[code](https://github.com/Tsinghua-MARS-Lab/M2I)] [~~demo~~]
   - Qiao Sun, Xin Huang, Junru Gu, Brian C. Williams, Hang Zhao
 
-### NeurIPS 2022:tada::tada::tada:
+### NeurIPS 2022
 
 - **IMMA** (Interaction Modeling with Multiplex Attention) [[paper&review](https://openreview.net/forum?id=SeHslYhFx5-)] [[code](https://github.com/sunfanyunn/IMMA)] [~~demo~~]
   - Fan-Yun Sun, Isaac Kauvar, Ruohan Zhang, Jiachen Li, Mykel Kochenderfer, Jiajun Wu, Nick Haber
 - **MTR** (Motion Transformer with Global Intention Localization and Local Movement Refinement) [[paper&review](https://openreview.net/forum?id=9t-j3xDm7_Q)] [[code](https://github.com/sshaoshuai/MTR)] [~~demo~~]
   - Shaoshuai Shi, Li Jiang, Dengxin Dai, Bernt Schiele
 
-### ICLR 2022:tada::tada::tada:
+### ICLR 2022
 
 - **Scene Transformer** (Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories) [[paper&review](https://openreview.net/forum?id=Wm3EA5OlHsG)] [[code](https://github.com/Chen-Albert-FENG/SceneTransformer)] [~~demo~~]
   - Jiquan Ngiam, Benjamin Caine, Vijay Vasudevan, Zhengdong Zhang, Hao-Tien Lewis Chiang, Jeffrey Ling, Rebecca Roelofs, Alex Bewley, Chenxi Liu, Ashish Venugopal, David Weiss, Ben Sapp, Zhifeng Chen, Jonathon Shlens
@@ -92,26 +92,26 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **PredictionNet** (PredictionNet: Real-Time Joint Probabilistic Traffic Prediction for Planning, Control, and Simulation) [[paper](https://arxiv.org/abs/2109.11094)] [~~code~~] [[demo](https://youtu.be/C7Nb3DRjFP0)]
   - Alexey Kamenev, Lirui Wang, Ollin Boer Bohan, Ishwar Kulkarni, Bilal Kartal, Artem Molchanov, Stan Birchfield, David Nistér, Nikolai Smolyanskiy
 
-### CVPR 2021:tada::tada::tada:
+### CVPR 2021
 
 - **TPCN** (TPCN: Temporal Point Cloud Networks for Motion Forecasting) [[paper](https://arxiv.org/abs/2103.03067)] [~~code~~] [~~demo~~]
   - Maosheng Ye, Tongyi Cao, Qifeng Chen
 - **TrafficSim** (TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors) [[paper](https://arxiv.org/abs/2101.06557)] [~~code~~] [[demo](https://youtu.be/n6C788TmBDY)]
   - Simon Suo, Sebastian Regalado, Sergio Casas, Raquel Urtasun
 
-### NeurIPS 2021:tada::tada::tada:
+### NeurIPS 2021
 
 - **CU-based** (Collaborative Uncertainty in Multi-Agent Trajectory Forecasting) [[paper&review](https://openreview.net/forum?id=sO4tOk2lg9I)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)] [[demo](https://youtu.be/udlu7C0nX8o)]
   - Bohan Tang, Yiqi Zhong, Ulrich Neumann, Gang Wang, Ya Zhang, Siheng Chen
 
-### ICCV 2021:tada::tada::tada:
+### ICCV 2021
 
 - **AgentFormer** (AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting) [[paper](https://arxiv.org/abs/2103.14023)] [[code](https://github.com/Khrylx/AgentFormer)] [[demo](https://www.xinshuoweng.com/papers/AgentFormer/demo.mp4)]
   - Ye Yuan, Xinshuo Weng, Yanglan Ou, Kris Kitani
 - **DenseTNT** (DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets) [[paper](https://arxiv.org/abs/2108.09640)] [[code](https://github.com/Tsinghua-MARS-Lab/DenseTNT)] [~~demo~~]
   - Junru Gu, Chen Sun, Hang Zhao
 
-### CoRL 2021:tada::tada::tada:
+### CoRL 2021
 
 - **CEAV** (Multi-Agent Trajectory Prediction by Combining Egocentric and Allocentric Views) [[paper&review](https://openreview.net/forum?id=lAtePxetBNb)] [~~code~~] [[demo](https://youtu.be/l96YYO9bC8M)]
   - Xiaosong Jia, Liting Sun, Hang Zhao, Masayoshi Tomizuka, Wei Zhan
@@ -121,19 +121,19 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **GraphTCN** (GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction) [[paper](https://arxiv.org/abs/2003.07167)] [~~code~~] [[demo](https://youtu.be/Kq0K5DeBL9g)]
   - Chengxin Wang, Shaofeng Cai, Gary Tan
 
-### CVPR 2020:tada::tada::tada:
+### CVPR 2020
 
 - **RSBG** (Recursive Social Behavior Graph for Trajectory Prediction) [[paper](https://arxiv.org/abs/2004.10402)] [~~code~~] [~~demo~~]
   - Jianhua Sun, Qinhong Jiang, Cewu Lu
 - **VectorNet** (VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation) [[paper](https://arxiv.org/abs/2005.04259)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)] [[demo](https://youtu.be/yJFtf-fz3WA)]
   - Jiyang Gao, Chen Sun, Hang Zhao, Yi Shen, Dragomir Anguelov, Congcong Li, Cordelia Schmid
 
-### NeurIPS 2020:tada::tada::tada:
+### NeurIPS 2020
 
 - **EvolveGraph** (EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning) [[paper&review](https://proceedings.neurips.cc/paper/2020/hash/e4d8163c7a068b65a64c89bd745ec360-Abstract.html)] [[code](https://github.com/huanshayun/EvolveGraph_realize)] [[demo](https://slideslive.com/38941510/evolvegraph-multiagent-trajectory-prediction-with-dynamic-relational-reasoning)]
   - Jiachen Li, Fan Yang, Masayoshi Tomizuka, Chiho Choi
 
-### ECCV 2020:tada::tada::tada:
+### ECCV 2020
 
 - **DSDNet** (DSDNet: Deep Structured Self-Driving Network) [[paper](https://arxiv.org/abs/2008.06041)] [~~code~~] [[demo](https://youtu.be/hop6FBJnM-c)]
   - Wenyuan Zeng, Shenlong Wang, Renjie Liao, Yun Chen, Bin Yang, Raquel Urtasun
@@ -144,7 +144,7 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **Trajectron++** (Trajectron++: Dynamically-Feasible Trajectory Forecasting With Heterogeneous Data) [[paper](https://arxiv.org/abs/2001.03093)] [[code](https://github.com/StanfordASL/Trajectron-plus-plus)] [~~demo~~]
   - Tim Salzmann, Boris Ivanovic, Punarjay Chakravarty, Marco Pavone
 
-### CoRL 2020:tada::tada::tada:
+### CoRL 2020
 
 - **DROGON** (DROGON: A Trajectory Prediction Model based on Intention-Conditioned Behavior Reasoning) [[paper](https://arxiv.org/abs/1908.00024)] [~~code~~] [[demo](https://youtu.be/PQlWx8AmoAs)]
   - Chiho Choi, Srikanth Malla, Abhishek Patil, Joon Hee Choi
@@ -153,12 +153,12 @@ This repository is a paper digest of multi-agent behavior (motion / trajectory) 
 - **TNT** (TNT: Target-Driven Trajectory Prediction) [[paper](https://arxiv.org/abs/2008.08294)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Prediction)] [[demo](https://youtu.be/iaaCbKncY-8)]
   - Hang Zhao, Jiyang Gao, Tian Lan, Chen Sun, Benjamin Sapp, Balakrishnan Varadarajan, Yue Shen, Yi Shen, Yuning Chai, Cordelia Schmid, Congcong Li, Dragomir Anguelov
 
-### ICCV 2019:tada::tada::tada:
+### ICCV 2019
 
 - **Trajectron** (The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs) [[paper](https://arxiv.org/abs/1810.05993)] [[code](https://github.com/StanfordASL/Trajectron)] [~~demo~~]
   - Boris Ivanovic, Marco Pavone
 
-### CoRL 2019:tada::tada::tada:
+### CoRL 2019
 
 - **MultiPath** (MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction) [[paper](https://arxiv.org/abs/1910.05449)] [~~code~~] [~~demo~~]
   - Yuning Chai, Benjamin Sapp, Mayank Bansal, Dragomir Anguelov
